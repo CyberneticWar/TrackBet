@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://track-bet.web.app">
     <img
-      src="https://track-bet.web.app/assets/images/logo_trackbet.webp?v=20260709"
+      src="https://track-bet.web.app/assets/images/logo_trackbet.webp?v=20260718"
       alt="TrackBet"
       width="320"
     />
@@ -35,8 +35,8 @@
   &nbsp;
   <a href="https://track-bet.web.app/dev-blog.html">
     <img
-      src="https://img.shields.io/badge/Changelog-build_0.0.11-f4c430?style=for-the-badge&logo=readthedocs&logoColor=0d0f12"
-      alt="Changelog build 0.0.11"
+      src="https://img.shields.io/badge/Changelog-0.0.11%2B23-f4c430?style=for-the-badge&logo=readthedocs&logoColor=0d0f12"
+      alt="Changelog build 0.0.11+23"
     />
   </a>
 </p>
@@ -45,6 +45,11 @@
   <img
     src="https://img.shields.io/badge/Stato-Pre--alpha-8b5cf6?style=flat-square"
     alt="Pre-alpha"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/Build-0.0.11%2B23-5b8def?style=flat-square"
+    alt="Build 0.0.11+23"
   />
   &nbsp;
   <img
@@ -65,7 +70,7 @@
 
 <p align="center">
   <img
-    src="https://track-bet.web.app/assets/images/og-card.webp?v=20260709"
+    src="https://track-bet.web.app/assets/images/og-card.webp?v=20260718"
     alt="TrackBet — tabellone partenze e gioco sui ritardi ferroviari"
     width="720"
   />
@@ -100,7 +105,7 @@ Sei in stazione, fissi il tabellone, il treno slitta di mezz'ora… di nuovo. **
 | **Ritiro e progressione** | A fine corsa liquidazione, claim, streak, medagliere e profilo con le tue statistiche. |
 | **Gratis davvero** | Zero paywall, zero abbonamenti, zero soldi veri. Qui perdi solo RailCoin, non euro. |
 
-> **Pre-alpha aperta** — stiamo raccogliendo feedback da tester Android prima del Play Store. Il progetto è indie, costruito con cura sul piano gratuito (nessun costo per chi prova).
+> **Pre-alpha aperta** — raccogliamo feedback da tester Android prima del Play Store. Progetto indie, tutto sul piano gratuito: nessun costo per chi prova.
 
 [Guida completa sul sito →](https://track-bet.web.app/come-funziona.html)
 
@@ -108,28 +113,28 @@ Sei in stazione, fissi il tabellone, il treno slitta di mezz'ora… di nuovo. **
 
 ## Provalo ora (beta Android)
 
-Per ora **solo Android**, fuori dal Play Store. L'accesso è sul sito ufficiale.
+Per ora **solo Android**, fuori dal Play Store. Download dal sito ufficiale — **nessun login sul web**.
 
 <table>
 <tr>
 <td width="48" align="center"><strong>1</strong></td>
 <td>
-<strong>Vai alla sezione Beta</strong><br />
-Apri <a href="https://track-bet.web.app/#beta">track-bet.web.app/#beta</a> e accedi con <strong>Google</strong> (stesso account che userai nell'app).
+<strong>Apri la sezione Beta</strong><br />
+Vai su <a href="https://track-bet.web.app/#beta">track-bet.web.app/#beta</a> e tocca <em>Scarica TrackBet</em>.
 </td>
 </tr>
 <tr>
 <td align="center"><strong>2</strong></td>
 <td>
-<strong>Scarica l'APK</strong><br />
-Tocca <em>Scarica TrackBet</em>. Il file finisce in <code>Download</code> come <code>Track Bet.apk</code>.
+<strong>Installa l'APK</strong><br />
+Il file arriva in <code>Download</code> come <code>TrackBet-0.0.11-b23.apk</code>. Consenti <em>Origini sconosciute</em> se Android lo chiede.
 </td>
 </tr>
 <tr>
 <td align="center"><strong>3</strong></td>
 <td>
-<strong>Installa e gioca</strong><br />
-Apri l'APK, consenti <em>Origini sconosciute</em> se Android lo chiede, avvia l'app con lo stesso account Google. Fatto.
+<strong>Entra e gioca</strong><br />
+Avvia l'app e accedi con <strong>Google</strong> (consigliato) oppure prova da guest. Fatto.
 </td>
 </tr>
 </table>
@@ -143,7 +148,9 @@ Apri l'APK, consenti <em>Origini sconosciute</em> se Android lo chiede, avvia l'
   </a>
 </p>
 
-**Requisiti:** Android recente, connessione dati per il tabellone live, account Google.
+**Requisiti:** Android recente · connessione dati per il tabellone live · account Google per sync e progressione.
+
+> **Già installata?** L'app avvisa quando c'è una build nuova e ti manda alla stessa pagina Beta — aggiorni senza disinstallare.
 
 ---
 
@@ -177,11 +184,11 @@ I **+37′** li mette la ferrovia. Tu almeno non resti solo a fissare il display
 |------|-------------|
 | **Tabellone** | Partenze live, LED stile stazione, refresh intelligente, badge ritardo |
 | **Puntate** | Overlay rapido, economia RailCoin, tier tabellone, anti-abuso |
-| **Le mie Scommesse** | HUD da terminale, tab Attive/Ritiro/Storico, biglietti glossy |
-| **Claim & trionfo** | Animazione ritiro premio, share card per Feed o Story |
-| **Profilo** | KPI mensili, medagliere, streak, configurazione modulare |
-| **Notifiche** | Push su puntata chiusa e aggiornamenti rilevanti |
-| **Account** | Google o email, guest con soft gate, sync cloud |
+| **Le mie Scommesse** | HUD da terminale, tab Attive / Ritiro / Storico, esito verificabile |
+| **Claim & trionfo** | Ritiro premio (anche offline), share card Premium Ticket |
+| **Profilo** | KPI mensili, medagliere, streak, obiettivi giornalieri persistenti |
+| **Notifiche** | Push sull'esito al momento giusto — senza flood all'apertura |
+| **Account** | Google (sync cloud), email o guest con soft gate |
 
 Design **AAA bollettino**: tema scuro/chiaro, tipografia leggibile, micro-animazioni con budget performance.
 
@@ -189,23 +196,23 @@ Design **AAA bollettino**: tema scuro/chiaro, tipografia leggibile, micro-animaz
 
 ## Anteprima
 
-Screenshot reali dall'app (build pre-alpha), non mockup generici.
+Screenshot reali dall'app (pre-alpha), non mockup generici.
 
 <p align="center">
   <img
-    src="https://track-bet.web.app/assets/images/mock/screen-tabellone.webp?v=20260709"
+    src="https://track-bet.web.app/assets/images/mock/screen-tabellone.webp?v=20260718"
     alt="Tabellone partenze TrackBet"
     width="220"
   />
   &nbsp;&nbsp;
   <img
-    src="https://track-bet.web.app/assets/images/mock/screen-puntata.webp?v=20260709"
+    src="https://track-bet.web.app/assets/images/mock/screen-puntata.webp?v=20260718"
     alt="Schermata puntata IN ORARIO o IN RITARDO"
     width="220"
   />
   &nbsp;&nbsp;
   <img
-    src="https://track-bet.web.app/assets/images/mock/screen-ritiro.webp?v=20260709"
+    src="https://track-bet.web.app/assets/images/mock/screen-ritiro.webp?v=20260718"
     alt="Liquidazione e ritiro RailCoin"
     width="220"
   />
@@ -228,17 +235,30 @@ Screenshot reali dall'app (build pre-alpha), non mockup generici.
 
 ## Novità recenti
 
-### Build **0.0.11** · 11 giugno 2026
+### Build **0.0.11+23** · 11 luglio 2026
 
-Condividi il biglietto come card social, **Le mie Scommesse** ha un look da display di stazione, il tabellone scorre senza inciampare. In più: landing e changelog sul sito rifatti per presentare il gioco.
+Popup aggiornamento affidabile su tutti gli Android (anche Samsung / rete lenta). Da Impostazioni trovi sempre il link alla beta sul sito.
 
 | Categoria | Highlight |
 |-----------|-----------|
-| **Novità** | Share biglietto come trading card (Feed 4:5 / Story 9:16), landing rinnovata con screenshot reali |
-| **Miglioramenti** | Le mie Scommesse con look da display stazione, tabellone più scorrevole, overlay impostazioni |
-| **Fix** | Ritiro trionfo più fluido, scroll tabellone senza scatti |
+| **Fix** | Avviso «nuova versione» non saltato più: controllo fuori da App Check, retry all'avvio e al ritorno in app |
+| **UX** | Impostazioni → Supporto: «Aggiornamento disponibile» apre la pagina Beta del sito |
 
-[Leggi tutte le patch notes →](https://track-bet.web.app/dev-blog.html)
+### Build **0.0.11+22** · 11 luglio 2026
+
+Aggiornamento dall'app = stesso flusso del sito. Sulle scommesse chiuse vedi orari e ritardo reale usati per il verdetto.
+
+| Categoria | Highlight |
+|-----------|-----------|
+| **Fix** | «Apri pagina Beta» → download con numero build nel nome, installazione senza disinstallare |
+| **Trasparenza** | Dettaglio puntata: arrivo previsto/effettivo, ritardo e ora esito (ViaggiaTreno) |
+| **UX** | Notifiche perdita più chiare («Arrivo in orario a…» / «Ritardo +N min») |
+
+### Build **0.0.11+21** · 10 luglio 2026
+
+Ritiri anche senza linea; obiettivi giornalieri che restano dopo logout/reinstall (account Google).
+
+[Tutte le patch notes →](https://track-bet.web.app/dev-blog.html)
 
 ---
 
@@ -283,6 +303,12 @@ Siamo in <strong>pre-alpha</strong>: raccogliamo feedback, rifiniamo UX e stabil
 </details>
 
 <details>
+<summary><strong>Come aggiorno la beta?</strong></summary>
+<br />
+L'app ti avvisa quando c'è una build nuova e apre la pagina Beta del sito. Oppure vai su <a href="https://track-bet.web.app/#beta">track-bet.web.app/#beta</a> e scarica di nuovo — non serve disinstallare.
+</details>
+
+<details>
 <summary><strong>iOS?</strong></summary>
 <br />
 Non ancora. Focus attuale su Android. Segui il <a href="https://track-bet.web.app/roadmap.html">roadmap</a> per gli aggiornamenti.
@@ -291,7 +317,7 @@ Non ancora. Focus attuale su Android. Segui il <a href="https://track-bet.web.ap
 <details>
 <summary><strong>Dove è il codice sorgente?</strong></summary>
 <br />
-Questo repository è la <strong>vetrina pubblica</strong> del progetto: presentazione e link al sito. Il codice dell'app è in repository privato durante la fase pre-alpha.
+Questo repository è la <strong>vetrina pubblica</strong> del progetto: presentazione e link al sito. Il codice dell'app resta privato durante la pre-alpha.
 </details>
 
 ---
